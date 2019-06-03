@@ -1,0 +1,10 @@
+Date: Mon, 03 Jun 2019 04:25:37 GMT
+Content-Type: text/html; charset=utf-8
+Set-Cookie: __cfduid=da4a9c85ff2d02b112300f4b2b35f1ffe1559535937; expires=Tue, 02-Jun-20 04:25:37 GMT; path=/; domain=.docs.scrapy.org; HttpOnly
+Location: https://docs.scrapy.org/en/latest/
+X-Served: Flask
+X-Redirect-From: Flask
+X-Deity: web01
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 4e0ee77aaca6c530-ORD
