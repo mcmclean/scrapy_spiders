@@ -9,6 +9,11 @@ https://blog.scrapinghub.com/2015/04/22/frontera-the-brain-behind-the-crawls
 https://docs.scrapy.org/en/latest/topics/link-extractors.html
 
 https://docs.scrapy.org/en/latest/topics/broad-crawls.html
+
+https://kirankoduru.github.io/python/multiple-scrapy-spiders.html
+https://frontera.readthedocs.io/en/latest/topics/scrapy-integration.html
+https://frontera.readthedocs.io/en/latest/topics/quick-start-single.html
+https://www.accordbox.com/blog/scrapy-tutorial-1-scrapy-vs-beautiful-soup/
 '''
 
 from scrapy.crawler import CrawlerProcess
